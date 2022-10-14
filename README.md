@@ -6,7 +6,7 @@ Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots 
 <div align="left">  
   Research work conducted by the following authors:
   <a href="https://scholar.google.com/citations?user=u6VDnlgAAAAJ&hl=ko&oi=ao">Dong-Guw Lee</a>,  
-  <a href="https://scholar.google.co.kr/citations?user=ivOqySYAAAAJ">Kyu-Seob Song</a>
+  <a href="https://scholar.google.com/citations?user=uG4rAaMAAAAJ&hl=ko&oi=ao">Kyu-Seob Song</a>
   <a href="https://scholar.google.com/citations?user=rRB8vyQAAAAJ&hl=ko&oi=sra">Young-Hoon Nho</a>,  
   <a href="https://ayoungk.github.io/">Ayoung Kim</a>
   <a href="https://scholar.google.com/citations?hl=ko&user=zDaw7hkAAAAJ&view_op=list_works&sortby=pubdate">Dong-Soo Kwon</a>
