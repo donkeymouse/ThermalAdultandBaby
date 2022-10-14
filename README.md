@@ -1,9 +1,8 @@
 #### Thermal image-based Adult and Baby dataset
-Repository containing dataset and resources to 
 
 ### "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" - Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
 
-
+research work conducted by the following authors:
 <div align="left">  
   <a href="https://scholar.google.com/citations?user=u6VDnlgAAAAJ&hl=ko&oi=ao">Dong-Guw Lee</a>,  
   <a href="https://scholar.google.co.kr/citations?user=ivOqySYAAAAJ">Kyu-Seob Song</a>
