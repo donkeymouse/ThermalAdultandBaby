@@ -1,4 +1,6 @@
-## "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" - Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
+## "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" 
+
+# Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
 
 
 <div align="left">  
@@ -23,7 +25,7 @@
 
  # How to download the dataset?
  
- To download the dataset, please fill out the following form: https://forms.gle/MfDuSEiJBcA7eKi6A
+ To download the dataset, please fill out the following form: https://forms.gle/8Bsdcrn1YhjvPZREA
 
 Once we check your submission, we will contact you back shortly with the link to download the dataset
 
