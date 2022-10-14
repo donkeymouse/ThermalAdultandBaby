@@ -1,6 +1,6 @@
-#### Thermal image-based Adult and Baby dataset
+### Thermal image-based Adult and Baby dataset
 
-### "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" - Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
+## "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" - Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
 
 research work conducted by the following authors:
 <div align="left">  
@@ -16,9 +16,8 @@ research work conducted by the following authors:
 
  <div align="center">
 
-![Dataset_residualheatmark](https://user-images.githubusercontent.com/58677731/195783112-9b788d9c-ac7b-4cb3-b927-d6e8c023b84b.JPG)
-![Dataset_multiangle](https://user-images.githubusercontent.com/58677731/195783116-0ec8b6c0-38da-4f82-adca-054650c69166.JPG)
-![Dataset_diverseposes](https://user-images.githubusercontent.com/58677731/195783120-e46644dd-a8ed-43fe-81ce-c7498a91c208.JPG)
+  
+  ![dataset_imags](https://user-images.githubusercontent.com/58677731/195785020-19ac4b56-e069-451a-88e2-fac395174a59.png)
 
  </div>
 
