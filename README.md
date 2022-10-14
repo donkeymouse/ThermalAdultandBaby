@@ -13,7 +13,7 @@ Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots 
 </div>
 
 
-### Thermal image-based adult and baby dataset
+## Thermal image-based adult and baby dataset
 
  <div align="center">
 
