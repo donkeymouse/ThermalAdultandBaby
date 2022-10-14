@@ -1,6 +1,6 @@
-## "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" 
+#### "Sequential thermal image-based adult and baby detection robust to thermal residual heat marks" 
 
-# Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
+Accepted Proceedings to IEEE/RSJ International conference on Intelligent Robots and Systems, Kyoto, Japan, 2022. 
 
 
 <div align="left">  
