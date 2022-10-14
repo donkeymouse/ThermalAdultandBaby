@@ -29,17 +29,14 @@ Once we check your submission, we will contact you back shortly with the link to
 
 
 
-The dataset will only be provided to those pursuing non-commercial project/academic research purposes. 
+The dataset will only be provided to those pursuing **non-commercial project/academic research purposes**. 
 
 If you have any questions about the dataset, paper, or have problems, 
 
-please email donkeymouse@snu.ac.kr or issue a problem on the github page. 
+please **email donkeymouse@snu.ac.kr** or issue a problem on the github page. 
 
 
 If you liked or used our dataset in any of your projects/works, please cite our paper :)
-
-
-
 
 ### Proposed detection method for adult and baby detection robust to thermal residual heat marks
 
@@ -55,7 +52,6 @@ If you liked or used our dataset in any of your projects/works, please cite our 
 
 
 
-### Results
 
 # Detection results on images with thermal residual heat marks
 
